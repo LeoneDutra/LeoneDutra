@@ -70,4 +70,4 @@ Actively developing a professional portfolio to enter the cybersecurity and clou
 ---
 
 ## 🔗 Find Me
-**LinkedIn:** https://www.linkedin.com/leonedutra  
+**LinkedIn:** www.linkedin.com/in/leonedutra 
