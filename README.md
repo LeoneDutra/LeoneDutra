@@ -34,7 +34,36 @@ Currently preparing for **CompTIA Security+ (SY0-701)** and actively developing 
 - **[Python Security Lab](https://github.com/LeoneDutra/python-security-lab)**  
   Python from fundamentals to intermediate, with tested exercises on log parsing, IOC extraction, ML-based detection and secure LLM agents.
 
+### 🔎 SOC, Detection & Incident Response
+- **[Security Homelab](https://github.com/LeoneDutra/security-homelab)**  
+  Documented home SOC: Wazuh SIEM, Windows/Linux endpoints with Sysmon, Active Directory and Atomic Red Team.
+
+- **[Detection Engineering Lab](https://github.com/LeoneDutra/detection-engineering-lab)**  
+  Sigma rules mapped to MITRE ATT&CK, tested and converted to KQL (Sentinel) and SPL (Splunk), validated in CI.
+
+- **[DFIR Casebook](https://github.com/LeoneDutra/dfir-casebook)**  
+  Incident response and forensics cases written as professional incident reports, plus playbooks.
+
+- **[Threat Hunting Playbooks](https://github.com/LeoneDutra/threat-hunting-playbooks)**  
+  Hypothesis-driven hunts (PEAK) with KQL/SPL queries and the detections created from them.
+
+- **[SOC Automation](https://github.com/LeoneDutra/soc-automation)**  
+  Python tools and SOAR workflows: IOC enrichment, phishing triage and a Wazuh → Shuffle → TheHive pipeline.
+
+### 🏭 OT/ICS, GRC & Offensive fundamentals
+- **[OT / ICS Security Lab](https://github.com/LeoneDutra/ot-security-lab)**  
+  Purdue-model brewery network, OpenPLC brewing simulation, Modbus attacks and their detection.
+
+- **[GRC Portfolio](https://github.com/LeoneDutra/grc-portfolio)**  
+  Risk assessment, NIST CSF 2.0 gap analysis, policies and BCP for a fictional craft brewery.
+
+- **[Offensive Write-ups](https://github.com/LeoneDutra/offensive-writeups)**  
+  Authorized lab write-ups, each ending with a "How to detect this" section.
+
 ### 🛡️ Cybersecurity foundations
+- **[Networking Fundamentals](https://github.com/LeoneDutra/networking-fundamentals)**  
+  TCP/IP, Linux and Windows/AD fundamentals: cheatsheets, PCAP analyses and Event ID references.
+
 - **[Cloud Security Lab](https://github.com/LeoneDutra/cloud-security-lab)**  
   IAM, policies, secure configurations, monitoring, logging, and least-privilege practice.
 
@@ -64,7 +93,10 @@ Currently preparing for **CompTIA Security+ (SY0-701)** and actively developing 
 Security+ concepts, CIA triad, threat detection basics, vulnerabilities, risk fundamentals.
 
 **SOC & Blue Team:**  
-Log analysis, syslog, monitoring concepts, incident response fundamentals.
+Log analysis, syslog, monitoring concepts, incident response fundamentals, Wazuh, Sigma, MITRE ATT&CK.
+
+**OT/ICS & GRC:**  
+Purdue Model, ISA/IEC 62443, Modbus, NIST CSF 2.0, risk management.
 
 **Cloud (AWS):**  
 IAM, identity principles, permissions, shared responsibility model, networking basics.
