@@ -42,13 +42,13 @@ Currently preparing for **CompTIA Security+ (SY0-701)** and actively developing 
   Sigma rules mapped to MITRE ATT&CK, tested and converted to KQL (Sentinel) and SPL (Splunk), validated in CI.
 
 - **[DFIR Casebook](https://github.com/LeoneDutra/dfir-casebook)**  
-  Incident response and forensics cases written as professional incident reports, plus playbooks.
+  Incident response and forensics cases written as professional incident reports, plus playbooks. Case 001: suspicious HTTP traffic (PCAP analysis, payload decoding, IOCs).
 
 - **[Threat Hunting Playbooks](https://github.com/LeoneDutra/threat-hunting-playbooks)**  
   Hypothesis-driven hunts (PEAK) with KQL/SPL queries and the detections created from them.
 
 - **[SOC Automation](https://github.com/LeoneDutra/soc-automation)**  
-  Python tools and SOAR workflows: IOC enrichment, phishing triage and a Wazuh → Shuffle → TheHive pipeline.
+  Python tools and SOAR workflows: IOC enrichment, phishing triage, security utilities and a Wazuh → Shuffle → TheHive pipeline.
 
 ### 🏭 OT/ICS, GRC & Offensive fundamentals
 - **[OT / ICS Security Lab](https://github.com/LeoneDutra/ot-security-lab)**  
@@ -62,22 +62,10 @@ Currently preparing for **CompTIA Security+ (SY0-701)** and actively developing 
 
 ### 🛡️ Cybersecurity foundations
 - **[Networking Fundamentals](https://github.com/LeoneDutra/networking-fundamentals)**  
-  TCP/IP, Linux and Windows/AD fundamentals: cheatsheets, PCAP analyses and Event ID references.
+  TCP/IP, routing, switching, firewalls, Linux and Windows/AD fundamentals: cheatsheets, PCAP analyses and Event ID references.
 
 - **[Cloud Security Lab](https://github.com/LeoneDutra/cloud-security-lab)**  
   IAM, policies, secure configurations, monitoring, logging, and least-privilege practice.
-
-- **[SOC / Blue Team Lab](https://github.com/LeoneDutra/soc-home-lab)**  
-  Log collection, detection engineering fundamentals, alert analysis, incident response workflows.
-
-- **[Network Fundamentals Lab](https://github.com/LeoneDutra/network-fundamentals-lab)**  
-  Routing, switching, subnets, firewall rules, packet capture, and protocol analysis.
-
-- **[Python for Cybersecurity](https://github.com/LeoneDutra/python-for-cyber)**  
-  Scripts for automation, log parsing, data transformation, and simple security utilities.
-
-- **[Incident Response: HTTP Traffic](https://github.com/LeoneDutra/incident-response-http-traffic)**  
-  Full case study of suspicious HTTP traffic: PCAP analysis, payload decoding, IOCs and mitigation.
 
 - **[Security+ Exam Notes](https://github.com/LeoneDutra/exam-notes-security-plus)**  
   Structured notes and study aids for CompTIA Security+ (SY0-701).
