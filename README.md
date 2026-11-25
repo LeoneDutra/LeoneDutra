@@ -10,6 +10,7 @@ Focused on building a strong technical foundation through hands-on labs, industr
 - Network security  
 - Linux administration  
 - Security automation with Python  
+- AI for security (ML-based detection, LLM agents, AI security)  
 
 Currently preparing for **CompTIA Security+ (SY0-701)** and actively developing practical labs to strengthen technical experience.
 
@@ -19,23 +20,40 @@ Currently preparing for **CompTIA Security+ (SY0-701)** and actively developing 
 - **Cybersecurity Technologist (2-year program)** – FIAP  
 - **CompTIA Security+ (SY0-701)** – In progress  
 - **Google Cybersecurity Certificate** – Completed  
+- **DIO AWS Cybersecurity Bootcamp** – In progress  
+- **Postgraduate in AI for Security Engineering** – FIAP (starting March 2027)  
 
 ---
 
 ## 🧪 Practical Labs & Projects
-I am actively building a structured portfolio that includes:
 
-- **Cloud Security Lab**  
+### 🤖 AI for Security track
+- **[AI Security Lab](https://github.com/LeoneDutra/ai-security-lab)**  
+  AI foundations for cybersecurity: ML concepts, generative AI and LLMs, AI agents, OWASP LLM Top 10 and MITRE ATLAS. Includes the DIO AWS Cybersecurity Bootcamp challenges.
+
+- **[Python Security Lab](https://github.com/LeoneDutra/python-security-lab)**  
+  Python from fundamentals to intermediate, with tested exercises on log parsing, IOC extraction, ML-based detection and secure LLM agents.
+
+### 🛡️ Cybersecurity foundations
+- **[Cloud Security Lab](https://github.com/LeoneDutra/cloud-security-lab)**  
   IAM, policies, secure configurations, monitoring, logging, and least-privilege practice.
 
-- **SOC / Blue Team Lab**  
+- **[SOC / Blue Team Lab](https://github.com/LeoneDutra/soc-home-lab)**  
   Log collection, detection engineering fundamentals, alert analysis, incident response workflows.
 
-- **Network Fundamentals Lab**  
+- **[Network Fundamentals Lab](https://github.com/LeoneDutra/network-fundamentals-lab)**  
   Routing, switching, subnets, firewall rules, packet capture, and protocol analysis.
 
-- **Python for Cybersecurity**  
+- **[Python for Cybersecurity](https://github.com/LeoneDutra/python-for-cyber)**  
   Scripts for automation, log parsing, data transformation, and simple security utilities.
+
+- **[Incident Response: HTTP Traffic](https://github.com/LeoneDutra/incident-response-http-traffic)**  
+  Full case study of suspicious HTTP traffic: PCAP analysis, payload decoding, IOCs and mitigation.
+
+- **[Security+ Exam Notes](https://github.com/LeoneDutra/exam-notes-security-plus)**  
+  Structured notes and study aids for CompTIA Security+ (SY0-701).
+
+📂 Everything is indexed in my **[Cybersecurity Portfolio](https://github.com/LeoneDutra/cybersecurity-portfolio)**.
 
 (Projects will be added and expanded as my studies progress.)
 
@@ -59,6 +77,9 @@ File system navigation, permissions, services, hardening basics.
 
 **Scripting:**  
 Python (automation and security tasks), Bash.
+
+**AI for Security:**  
+Machine learning concepts, LLMs and prompt engineering, RAG, AI agents and MCP, OWASP Top 10 for LLM, MITRE ATLAS.
 
 ---
 
